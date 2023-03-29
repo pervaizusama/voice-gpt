@@ -42,5 +42,5 @@ If you're experiencing issues with the Voice Bot App, please try the following t
 2. Verify that your API key is valid and entered correctly in the app's settings.
 3. Restart the app or your device to resolve any temporary issues.
 
-If you continue to face issues, please don't hesitate to contact us at [usamaaiesec15@gmail.com](mailto:usamaaiesec15@gmail.com) or via Twitter at [@usamakhawajaa].
+If you continue to face issues, please don't hesitate to contact us at [usamaaiesec15@gmail.com](mailto:usamaaiesec15@gmail.com) or via Twitter at [@usamakhawajaa](https://twitter.com/usamakhawajaa).
 
